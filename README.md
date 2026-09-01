@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Dimon-art я автомеханик .Работаю на СТО . 
-- 👀 I’m interested in ...мне интересно програмироваие поэтому я учусь в AI унивеситете 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...пока я учусь
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Привет! Я @Dimon-art
+
+🔧 Автомеханик, работающий на СТО
+💻 Изучаю Python и программирование
+🤖 Учусь в университете по направлению **AI / Artificial Intelligence**
+🚀 Разрабатываю свои проекты в области **AI, RAG и автоматизации**
+
+🌱 Сейчас изучаю: Python, FastAPI, API, RAG и разработку AI-приложений.
+
+💞️ Открыт к сотрудничеству, интересным проектам и совместному обучению.
+
+⚡ **Интересный факт:** днём ремонтирую автомобили, вечером создаю AI-приложения. 🔧 → 🤖
+
 
 <!---
 Dimon-art/Dimon-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
